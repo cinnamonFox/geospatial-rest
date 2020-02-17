@@ -2,3 +2,4 @@
 .project
 .settings/
 target/
+src/main/java/farm/steele/geospatial_rest/jaxb/
